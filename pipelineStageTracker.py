@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Recruiter Pipeline Dashboard", layout="wide")
+st.set_page_config(page_title="HR Pipeline Dashboard", layout="wide")
 
 st.title("📊 Candidate Pipeline Dashboard")
 
